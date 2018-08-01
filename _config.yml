@@ -11,7 +11,7 @@ url: https://shesna.github.io/Culinary-Musings  # url should be 'http://<github_
 
 # author -- index page "about me" section
 author:  Shesna PA
-  name: GitHub  # Be used at blog posts' author.
+  name: Shesna  # Be used at blog posts' author.
   first_name: Shesna  # Be used at index page about me section.
   last_name: PA  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
