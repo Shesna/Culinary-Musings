@@ -10,7 +10,7 @@ url: https://shesna.github.io/Culinary-Musings  # url should be 'http://<github_
 # img_path: /Culinary-Musings/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
-author:  # change following line to your infomation.
+author: Shesna # change following line to your infomation.
   name: Shesna  # Be used at blog posts' author.
   first_name: Shesna  # Be used at index page about me section.
   last_name: PA  # Be used at index page about me section.
